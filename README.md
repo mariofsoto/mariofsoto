@@ -9,8 +9,8 @@ I'm Felipe Soto, a Software Android Engineer from Colombia. I'm passionate about
 <div align="center">
   <a href="https://github.com/mariofsoto">
   
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mariofsoto&show_icons=true&theme=algolia"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofsoto&theme=algolia"/>    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariofsoto&show_icons=true&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofsoto&theme=algolia"/>    
 </div>
 
 ##
