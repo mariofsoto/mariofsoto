@@ -15,7 +15,7 @@ I'm Felipe Soto, a Software Android Engineer from Colombia. I'm passionate about
 
 ##
 
-### Languages and Tools:  
+### Programming Languages and Tools:  
 ![MAC](https://img.shields.io/badge/MacOS-%23323330.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)  
